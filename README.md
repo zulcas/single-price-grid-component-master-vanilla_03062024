@@ -5,14 +5,14 @@
 ## Iteración 1
 
 - Visualiza el fichero _style-guide_
-- Define todas las variables CSS 
+- Define todas las [variables CSS](https://www.w3schools.com/css/css3_variables.asp) 
 - Establece el font-size del elemento **html**
-- Carga la fuente y los pesos especificados de la fuente de Google Karla
+- Carga la fuente y los pesos especificados de la fuente de Google Karla y aplicala en todo el **body**
 
 ## Iteración 2
 
-- Dibuja las "cajitas" de la versión móvil.
-- Vamos a implementar está solución usando un **grid** para separar las diferentes secciones
+- Dibuja las "cajitas" de la versión móvil. 
+- Vamos a implementar está solución usando un [**grid**](https://www.w3schools.com/css/css_grid_container.asp) para separar las diferentes secciones
 - Crea toda la estructura HTML necesaria. No hay demasiado contexto semántico, así que no te centres en ello, tan solo usa tags semánticos evidentes
 
 ## Iteración 3
